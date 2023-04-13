@@ -11,3 +11,5 @@ c) Disclosure to third parties is required if there is a breach of relevant Chin
 The information and data collected by the Software about you will be stored on the servers of the Software and/or its affiliates and may be transferred to, accessed, stored and displayed outside your country or region or outside the country where the Software collects information and data.
 5. Information Security
 a) When using the Software's web services to conduct online transactions, you will inevitably have to disclose your personal information, such as contact details or postal address, to counterparties or potential counterparties. Please protect your personal information and provide it to others only when necessary. If you discover that your personal information has been compromised, please contact the software's customer service immediately.
+
+email: yp8023@163.com
